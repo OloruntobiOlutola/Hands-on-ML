@@ -3,3 +3,13 @@ pandas
 numpy
 scikit-learn
 kagglehub
+plotly
+tqdm
+seaborn
+kaggle
+pyarrow
+lxml
+imblearn
+optuna
+lightgbm
+xgboost
