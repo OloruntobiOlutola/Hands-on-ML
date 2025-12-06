@@ -15,3 +15,4 @@ lightgbm
 xgboost
 imblearn
 catboost
+jinja2
